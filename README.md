@@ -1,1 +1,1 @@
-# Stochastic-Optimiation
+# Wasserstein GANs
